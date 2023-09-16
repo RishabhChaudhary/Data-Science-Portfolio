@@ -1,11 +1,11 @@
 # Data Science Portfolio  #
 
-## End to End Projects ##
+## End-to-End Projects ##
 
-## Skill Based Projects ##
+## Skill-Based Projects ##
 
 ### Machine Learning
-#### EDA(Exploratory Data Analysis) and Data Visulization
+#### Exploratory Data Analysis (EDA) and Data Visulization
 
 ---
 
