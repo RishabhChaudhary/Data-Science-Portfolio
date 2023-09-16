@@ -2,56 +2,48 @@
 
 ## End to End Projects ##
 
-----
+## Skill Based Projects ##
 
-# Skill Based Projects #
-
-## Machine Learning
-### Regression
+### Machine Learning
+#### EDA(Exploratory Data Analysis) and Data Visulization
 
 ---
 
-### Classification 
+#### Regression
 
 ---
 
-### Clustering 
+#### Classification 
+
+---
+
+#### Clustering 
 
 ---
 
 ### Time series Analysis
 
----
-
-### Data Visulization:
-
----
-
-## Deep Learning
-### Classification
+### Deep Learning
+#### Classification
 
 ---
 
-### Natural Language Processing 
+#### Natural Language Processing 
  
 ---
 
-### Spark 
+#### Spark 
 
 ---
 
-### Data Modeling 
+#### Data Modeling 
 
 ---
 
-### Certificates 
+## Certificates 
 
----
+## Course Work
 
-### Course Work
-
----
-
-### Kaggle Work
+## Kaggle Work
 
 
