@@ -23,6 +23,8 @@
 
 ### Time series Analysis
 
+* [Store Sales Forecasting: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/tree/main/Time-Series/Store-Sales-Forecasting) Forecasting the sales of a store using XGB and LGbm regressor.
+
 ### Deep Learning
 #### Classification
 
