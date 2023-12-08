@@ -53,6 +53,15 @@
 ---
 
 ## Certificates 
+* [Applied Machine Learning - Beginner to Professional](https://courses.analyticsvidhya.com/certificates/zygdltw4of)
+* [Advanced Python Programming and Software Engineering Fundamentals](https://courses.analyticsvidhya.com/certificates/k9hb4jfcg8)
+* [Fundamentals of Deep Learning](https://courses.analyticsvidhya.com/certificates/dohe1y7dw5)
+* [Retail Demand Prediction using Machine Learning](https://courses.analyticsvidhya.com/certificates/1gviic8ybf)
+* [Structured Thinking and Communication for Data Science Professionals](https://courses.analyticsvidhya.com/certificates/yboe5ugqiq)
+* [Recommender Systems with Python](https://courses.analyticsvidhya.com/certificates/tybafb0ubj)
+* [Time Series Forecasting using Python](https://courses.analyticsvidhya.com/certificates/hugf2ftpza)
+* [Fundamentals of Structured Query Language](https://courses.analyticsvidhya.com/certificates/fuxfdbwsbg)
+* [Google Data Analytics Certificate](https://www.credly.com/badges/047b1f56-0fd3-49dd-b20f-dfc724f59ae0/public_url)
 
 ## Course Work
 
