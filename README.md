@@ -1,4 +1,4 @@
-# Data Science Portfolio  #
+;# Data Science Portfolio  #
 
 ## End-to-End Projects ##
 
@@ -66,5 +66,6 @@
 ## Course Work
 
 ## Kaggle Work
-
+* [Enefit - Predict Energy Behaviour of Prosumers: ](notebooks/Enefit-Predict-Energy-Behavior) Energy demand/production prediction model of prosumers to reduce energy imbalance costs.
+* [NYC Taxi Trip Duration: ](notebooks/nyc_taxi_trip_duration) Model to predict the trip duration of a taxi based on location and time of the day to handle the demand and supply.
 
